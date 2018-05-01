@@ -125,6 +125,6 @@
 
             <a href="/document/submit/{{$frd->id}}" class="btn btn-success btn-lg">submit to manager</a>
         </div>
-        <br>
+        <br><br>
     </div>
 @stop
